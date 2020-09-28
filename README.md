@@ -6,11 +6,36 @@ Currently, working on Cloud Computing, IoT and Web Dev whilst dabbling with Veri
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=usmanaslam712)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanaslam712)](https://github.com/anuraghazra/github-readme-stats)
 
-# Languages used
+# Tools used
 
 <p align="center">
 <a href="#">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
+<a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
     </p>
+    
+ # Areas of work
+<p align="center">
+<a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/iot.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
+ </p>
+ 
+ # Let's connect!
+<p align="center">
+<a href="https://www.linkedin.com/in/usman-aslam-u712a/">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
+    <a href="https://www.instagram.com/usmanaslam712">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/instagram.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
+<a href="https://twitter.com/usmanaslam712">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
+ </p>
+ 
+ 
   
