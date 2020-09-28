@@ -3,4 +3,4 @@ Hello there! My name is Usman Aslam and I am a tech enthusiast hyperfocused on t
 <br>
 Currently, working on Cloud Computing, IoT and Web Dev whilst dabbling with Verilog and Power Platform tools. 🔥
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/apiusmanaslam712=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=usmanaslam712)](https://github.com/anuraghazra/github-readme-stats)
