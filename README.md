@@ -8,7 +8,6 @@ Currently, working on Cloud Computing, IoT and Web Dev whilst dabbling with Veri
 
 ### - Languages and Tools...
 
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/usmanaslam712/usmanaslam712/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  </p>
+<a href="#">
+    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
