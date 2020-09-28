@@ -6,8 +6,11 @@ Currently, working on Cloud Computing, IoT and Web Dev whilst dabbling with Veri
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=usmanaslam712)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanaslam712)](https://github.com/anuraghazra/github-readme-stats)
 
-### - Languages and Tools...
+# Languages used
 
+<p align="center">
 <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>  
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
+    </p>
+  
