@@ -9,5 +9,5 @@ Currently, working on Cloud Computing, IoT and Web Dev whilst dabbling with Veri
 ### - Languages and Tools...
 
 <a href="#">
-    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
