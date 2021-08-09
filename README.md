@@ -24,6 +24,12 @@ Currently, working on Cloud Computing, IoT and Web Dev whilst dabbling with Veri
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/iot.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
  </p>
+<p align="center">
+<a href="#">
+    <img src="svg/dev/misc/web.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
+ </p>
+
  
  # Let's connect!
 <p align="center">
