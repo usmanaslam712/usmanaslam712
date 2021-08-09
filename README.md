@@ -26,7 +26,7 @@ Currently, working on Cloud Computing, IoT and Web Dev whilst dabbling with Veri
  </p>
 <p align="center">
 <a href="#">
-    <img src="svg/dev/misc/web.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/web.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
  </p>
 
