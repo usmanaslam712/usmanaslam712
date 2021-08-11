@@ -29,10 +29,10 @@ Currently, working on Cloud Computing, IoT and Web Dev whilst dabbling with Veri
  </p>
  
  # Let's connect!
-<p align="center">
+<!-- <p align="center">
 <a href="https://www.linkedin.com/in/usman-aslam-u712a/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>
+  </a> -->
     <a href="https://www.instagram.com/usmanaslam712">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/instagram.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>
