@@ -1,5 +1,5 @@
 # About me
-Hello there! Thanks for stopping by — I'm a Developer Relations Lead deep in the MCP & agentic AI ecosystem. I love building systems and products, writing about what I learn, and cbuilding ecosystems across APAC, MEA & EMEA. 🌏
+Hello there! Thanks for stopping by — I'm a Developer Relations Lead deep in the MCP & agentic AI ecosystem. I love building systems and products, writing about what I learn, and building ecosystems across APAC, MEA & EMEA. 🌏
 <br>
 Major low code/no code advocate. 🔥
 
@@ -23,6 +23,33 @@ Major low code/no code advocate. 🔥
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Bedrock" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" alt="Airtable" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Softr-6B4FBB?style=for-the-badge&logoColor=white" alt="Softr" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Relay.app-3B82F6?style=for-the-badge&logoColor=white" alt="Relay.app" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
