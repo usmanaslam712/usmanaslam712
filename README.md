@@ -1,9 +1,9 @@
 # About me
-Hello there! Thanks for stopping by — I'm a Developer Relations Lead deep in the MCP & agentic AI ecosystem. I love building with low-code tools, writing about what I learn, and connecting communities across APAC, MEA & EMEA. 🌏
+Hello there! Thanks for stopping by — I'm a Developer Relations Lead deep in the MCP & agentic AI ecosystem. I love building systems and products, writing about what I learn, and cbuilding ecosystems across APAC, MEA & EMEA. 🌏
 <br>
 Major low code/no code advocate. 🔥
 
-[![Usman's github stats](https://github-readme-stats.vercel.app/api?username=usmanaslam712&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=usmanaslam712&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanaslam712&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -48,7 +48,7 @@ Major low code/no code advocate. 🔥
   </a>
 </p>
 
-# Community roles
+# Ecosystem Building at
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/Startup_Grind-APAC_Director-E8381A?style=for-the-badge&logo=startupgrind&logoColor=white" alt="Startup Grind" style="vertical-align:top; margin:6px 4px">
