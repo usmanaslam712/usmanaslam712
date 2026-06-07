@@ -3,17 +3,17 @@ Hello there! Thanks for stopping by — I'm a Developer Relations Lead deep in t
 <br>
 Major low code/no code advocate. 🔥
 
-[![Usman's github stats](https://github-readme-stats.vercel.app/api?username=usmanaslam712&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Usman's github stats](https://github-readme-stats.vercel.app/api?username=usmanaslam712&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanaslam712&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanaslam712&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Tools used
 <p align="center">
   <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/powershell.svg" alt="PowerShell" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg" alt="PowerShell" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" style="vertical-align:top; margin:6px 4px">
@@ -29,7 +29,7 @@ Major low code/no code advocate. 🔥
 # Areas of work
 <p align="center">
   <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/web.svg" alt="Web" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/web.svg" alt="Web" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Agentic_AI-5A67D8?style=for-the-badge&logoColor=white" alt="Agentic AI" style="vertical-align:top; margin:6px 4px">
@@ -38,7 +38,13 @@ Major low code/no code advocate. 🔥
     <img src="https://img.shields.io/badge/Developer_Relations-F59E0B?style=for-the-badge&logoColor=white" alt="DevRel" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Community_Building-10B981?style=for-the-badge&logoColor=white" alt="Community" style="vertical-align:top; margin:6px 4px">
+    <img src="https://img.shields.io/badge/Community_Building-10B981?style=for-the-badge&logoColor=white" alt="Community Building" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Product_Innovation-E11D48?style=for-the-badge&logoColor=white" alt="Product Innovation" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GTM_Strategy-0EA5E9?style=for-the-badge&logoColor=white" alt="GTM Strategy" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
@@ -61,13 +67,13 @@ Major low code/no code advocate. 🔥
 # Let's connect!
 <p align="center">
   <a href="https://linkedin.com/in/usmanaslam712">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="https://twitter.com/usmanaslam712">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="https://www.instagram.com/usmanaslam712">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="https://medium.com/@usmanaslam712">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="vertical-align:top; margin:6px 4px">
