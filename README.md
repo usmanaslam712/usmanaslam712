@@ -48,7 +48,7 @@ Major low code/no code advocate. 🔥
   </a>
 </p>
 
-# Ecosystem Building at
+# Building ecosystems at
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/Startup_Grind-APAC_Director-E8381A?style=for-the-badge&logo=startupgrind&logoColor=white" alt="Startup Grind" style="vertical-align:top; margin:6px 4px">
